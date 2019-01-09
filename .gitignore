@@ -1,0 +1,9 @@
+# Ignore all
+*
+
+# Don't ignore these files
+!.gitignore
+!firstSLAM.py
+!display.py
+!extractor.py
+!README.md
